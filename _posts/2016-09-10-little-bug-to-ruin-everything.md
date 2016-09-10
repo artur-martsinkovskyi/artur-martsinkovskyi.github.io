@@ -2,8 +2,7 @@
 layout: post
 title:  "A little bug to ruin everything"
 date:   2016-01-10
-excerpt: "A scary tale how one line of code can cause a plenty bugs and grind your gears as hell."
-project: false 
+excerpt: "A scary tale how one line of code can cause a plenty bugs and grind your gears as hell.
 tag:
 - Rails
 - Ruby
