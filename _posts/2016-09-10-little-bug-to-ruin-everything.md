@@ -8,6 +8,7 @@ tag:
 - Ruby
 - Debug
 comments: true
+project: true
 ---
 
 ## Introduction
