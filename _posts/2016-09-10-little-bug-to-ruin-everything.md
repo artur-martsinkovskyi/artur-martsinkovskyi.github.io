@@ -39,7 +39,7 @@ Nothing you try mends the problem. Resetting the DB? Naaah. Debugging saving pro
 The funniest thing was in fact the detail that every freaking date inserted in the DB appeared in
 it, according to the PostgreAdmin and other database administration programs information,
 but each time I tried to get it Rails returned me the oddity of __nil__. As you may presume, it
- grounded my gears as if I was watching Uve Boll films for an entire week.
+ grinded my gears as if I was watching Uve Boll films for an entire week.
 
 ## Taming the beast of time zone 
 
