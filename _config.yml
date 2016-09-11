@@ -10,7 +10,6 @@ tiled_bg:           true   # Set this true if you want to tile your background i
 locale:             en_US
 url: //arthur-marz.github.io
 
-disqus_shortname: arthur-marz-github-io
 
 # Jekyll
 permalink:          /:title/
@@ -26,6 +25,8 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+
+disqus_shortname: arthur-marz-github-io
 
 # Social
 # if you don't have any of social below, comment the line.
