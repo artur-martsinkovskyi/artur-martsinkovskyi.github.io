@@ -1,1 +1,1 @@
-Residing is awesome.
+Reading is awesome.
