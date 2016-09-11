@@ -6,7 +6,7 @@ excerpt: "A scary tale how one line of code can cause a plenty bugs and grind yo
 tags: [Rails, Ruby, debug]
 comments: true
 image:
-  feature: http://i1-news.softpedia-static.com/images/news2/new-debugger-can-discover-security-bugs-in-ruby-code-in-64-seconds-503022-2.png
+  feature: new-debugger-can-discover-security-bugs-in-ruby-code-in-64-seconds-503022-2.png
 ---
 
 ## Introduction
