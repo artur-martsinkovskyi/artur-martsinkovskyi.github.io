@@ -41,7 +41,7 @@ it, according to the PostgreAdmin and other database administration programs inf
 but each time I tried to get it Rails returned me the oddity of __nil__. As you may presume, it
  grounded my gears as if I was watching Uve Boll films for an entire week.
 
-## Taming the beast
+## Taming the beast of time zone 
 
 After all the failed tries and experiments on my project I was tired, angry and full of hate.
 Nils were everywhere in my mind and for the last shot I googled just literally the case I came across.
