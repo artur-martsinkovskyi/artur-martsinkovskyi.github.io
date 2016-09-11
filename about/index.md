@@ -17,7 +17,7 @@ my mind whilst I`m working, living and walking through the *shady forest of impo
 
 ### A bit of CV-like content
 
-These are the technologies and stuff I am looking for.
+These are the technologies and stuff I am involved into.
 
 #### Programming languages I`m skilled in:
     - Java(1 year of experience, mostly Android)
