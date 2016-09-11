@@ -10,7 +10,7 @@ tiled_bg:           true   # Set this true if you want to tile your background i
 locale:             en_US
 url: //arthur-marz.github.io
 
-disqus_shortname: arthur-marz
+disqus_shortname: arthur-marz-github-io
 
 # Jekyll
 permalink:          /:title/
