@@ -37,9 +37,9 @@ had to be working with dates, time and timezones functioned for real. You pass a
 even basic __:created_at__ to the DB via ORM and when you get it back it returns just __nil__.
 Nothing you try mends the problem. Resetting the DB? Naaah. Debugging saving process? Nope.
 The funniest thing was in fact the detail that every freaking date inserted in the DB appeared in
-in it, according to the PostgreAdmin and other database administration programs information,
+it, according to the PostgreAdmin and other database administration programs information,
 but each time I tried to get it Rails returned me the oddity of __nil__. As you may presume, it
-it ground my gears as if I was watching Uve Boll films for an entire week.
+ grounded my gears as if I was watching Uve Boll films for an entire week.
 
 ## Taming the beast
 
