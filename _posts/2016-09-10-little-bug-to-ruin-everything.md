@@ -5,6 +5,7 @@ date:   2016-09-10
 excerpt: "A scary tale how one line of code can cause a plenty bugs and grind your gears as hell."
 tags: [Rails, Ruby, debug]
 comments: true
+feature: new-debugger-can-discover-security-bugs-in-ruby-code-in-64-seconds-503022-2.png
 ---
 
 ## Introduction
