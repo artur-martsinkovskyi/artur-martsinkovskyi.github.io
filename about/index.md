@@ -19,10 +19,11 @@ my mind whilst I`m working, living and walking through the *shady forest of impo
 
 These are the technologies and stuff I am involved into.
 
-#### Programming languages I`m skilled in:
+#### Programming languages I'm skilled in:
     - Java(1 year of experience, mostly Android)
     - Javascript(1 year of experience)
     - Ruby(6 months of experience, mostly Rails)
+    - Python(6 months of experience) 
     - C++(6 months of experience)
     - C#(6 months of experience)
 
@@ -32,7 +33,6 @@ These are the technologies and stuff I am involved into.
     - React
     - PostgreSQL
     - SQLite
-    - Angular 2
 
 #### Scientific interests:
     - Semantic analysis.
