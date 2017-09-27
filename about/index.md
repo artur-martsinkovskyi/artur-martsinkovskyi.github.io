@@ -13,43 +13,45 @@ I am a Computer Science student in the Precarpathian National University, who ha
 study and true desire to create the brand new tomorrow world on the foundation of today.
 Now I am a Junior Ruby on Rails Developer in the Insilico-Soft company, based in my native
 town Ivano-Frankivsk. I tend to develop this blog up writing down thoughts that come to
-my mind whilst I`m working, living and walking through the *shady forest of impossible world we live in*.
+my mind whilst I'm working, living and walking through the *shady forest of impossible world we live in*.
 
 ### A bit of CV-like content
 
 These are the technologies and stuff I am involved into.
 
 #### Programming languages I'm skilled in:
-    - Java(1 year of experience, mostly Android)
-    - Javascript(1 year of experience)
-    - Ruby(6 months of experience, mostly Rails)
-    - Python(6 months of experience) 
-    - C++(6 months of experience)
-    - C#(6 months of experience)
-
+    - Java(intermediate, mostly Android)
+    - Javascript(intermediate)
+    - Ruby(advanced, mostly Rails)
+    - Python(intermediate) 
+    - C(basic)
+    - SML(basic)
+    - Prolog(basic)
+   
 #### Technologies I use:
-    - Rails
-    - Android SDK
-    - React
-    - PostgreSQL
-    - SQLite
+    - Ruby/Python
+    - Linux
+    - SQL/NoSQL DB
+    - Zsh/Vim/tmux/XMonad
 
 #### Scientific interests:
     - Semantic analysis.
     - Data mining.
     - Big data.
-    - Effective UX and UI on the basics of human psychology.
+    - Effective UX and UI on the basis of human psychology.
+    - AI
 
 ### Hobbies and hobbits
     - Science fiction literature
     - Comic books
     - Art
     - Poetry
-    - Lurking down the deepest web corners
+    - Lurking down the deepest corners of web
     - Travelling
     - British parliamentary style debates
     - Cooking
     - Warhammer 40k LARP and text RP
+    - Debates
 
 ### Contact me
 
