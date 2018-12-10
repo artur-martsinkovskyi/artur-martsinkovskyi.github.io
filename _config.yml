@@ -8,7 +8,7 @@ logo:               'assets/img/avatar.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url: //arthur-marz.github.io
+url: //artur-martsinkovskyi.github.io
 
 
 # Jekyll
@@ -26,7 +26,7 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-disqus_shortname: arthur-marz-github-io
+disqus_shortname: artur-martsinkovskyi-github-io
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -38,8 +38,7 @@ disqus_shortname: arthur-marz-github-io
   #ad-slot:
 #bing-verify:
 email: deimoss42@gmail.com
-twitter:            Deimoss42
-github:             arthur-marz
+github:             artur-martsinkovskyi
 stackoverflow:      6176394/Артур-Фокс
 #linkedin:          username
 #xing:              username
