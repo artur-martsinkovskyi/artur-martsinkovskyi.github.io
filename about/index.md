@@ -6,13 +6,15 @@ date: 2018-12-11
 comments: false
 ---
     
-<center><a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, developer, artist, poet, blogger, geek.</center>
+<center><a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, engineer, public speaker, poet, blogger, weirdo.</center>
 
 I am a Software Engineer on Ruby and some other languages, Vim enthusiast and a big fan of FP, XP and TDD.
 
 I am a Computer Science graduate student in the Precarpathian National University.
 
-I am a rationalist with a sprinkle of sci-fi aspirations.
+Rationalist with a sprinkle of sci-fi aspirations.
+
+Interested in medical, financial, logistic and civil engineering domains.
 
 Proud Thinkpad user, use Mac Mini at work, get along with Windows as with neccessary evil time to time.
 
