@@ -5,7 +5,7 @@ tags: [about, Artur Martsinkovskyi, engineer, bio]
 date: 2018-12-11
 comments: false
 ---
-    
+
 <center><a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, engineer, public speaker, poet, blogger, weirdo.</center>
 
 I am a Software Engineer on Ruby and some other languages, Vim enthusiast and a big fan of FP, XP and TDD.
@@ -25,13 +25,13 @@ These are the technologies and stuff I am involved into.
 #### Programming languages I'm skilled in:
     - Javascript(intermediate)
     - Ruby(advanced, mostly Rails, Roda and Hanami)
-    - Python(intermediate) 
+    - Python(intermediate)
     - C(basic)
     - SML(basic)
     - Prolog(basic)
     - LISP(intermediate, Clojure, Common Lisp, Racket, Chicken Scheme)
     - Haskell(basic)
-   
+
 #### Technologies I use:
     - Linux
     - SQL/NoSQL
