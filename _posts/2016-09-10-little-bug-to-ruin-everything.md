@@ -5,7 +5,7 @@ date:   2016-09-10
 excerpt: "A scary tale how one line of code can cause a plenty bugs and grind your gears as hell."
 tags: [Rails, Ruby, debug]
 comments: true
-feature: http://i1-news.softpedia-static.com/images/news2/new-debugger-can-discover-security-bugs-in-ruby-code-in-64-seconds-503022-2.png
+feature: /assets/img/new-debugger-can-discover-security-bugs-in-ruby-code-in-64-seconds-503022-2.png
 ---
 
 ## Introduction
@@ -19,10 +19,10 @@ mend.
 
 ## Advise for Devise
 
-I was rapidly developing my project, so I assumed it would be a good idea to add some 
+I was rapidly developing my project, so I assumed it would be a good idea to add some
 registration-based and user-dependent functionality. Alright, I said. Time to include
 __:confirmable__ module for Devise gem in my User model and get it working. SMTP-config
-setup, hiding credentials in Figaro files, a bit of view fixing and then first mail 
+setup, hiding credentials in Figaro files, a bit of view fixing and then first mail
 got it way to my testing email address. Everything was great, but... What did I see?
 Yes, user got his confirmation link, clicked on it and then he simply was not confirmed.
 WHAT? After lurking out the Devise guts I patched it to develop forward(basically letting user
@@ -31,7 +31,7 @@ functionality.
 
 ## Second helping for the wolfie
 
-Yaaas, I guess you get what comes next - HERE COME THE DRUMS, other words, additional 
+Yaaas, I guess you get what comes next - HERE COME THE DRUMS, other words, additional
 features that need time and dates to be a part of them. Nothing, literally nothing what
 had to be working with dates, time and timezones functioned for real. You pass a date or time,
 even basic __:created_at__ to the DB via ORM and when you get it back it returns just __nil__.
@@ -41,12 +41,12 @@ it, according to the PostgreAdmin and other database administration programs inf
 but each time I tried to get it Rails returned me the oddity of __nil__. As you may presume, it
  really ground my gears as if I was watching Uve Boll films for an entire week.
 
-## Taming the beast of time zone 
+## Taming the beast of time zone
 
 After all the failed tries and experiments on my project I was tired, angry and full of hate.
 Nils were everywhere in my mind and for the last shot I googled just literally the case I came across.
 In the middle of the first search page I saw this [stackoverflow link](http://stackoverflow.com/questions/20255272/rails-4-model-returns-always-nil)
-and, oh... Flying Spaghetti Monster, it worked. For some reason, when you pass to the config of timezone 
+and, oh... Flying Spaghetti Monster, it worked. For some reason, when you pass to the config of timezone
 the timezone in the wrong format, the application doesn't indicates any error or exception. It doesn't even
 point you are a dummy, no. It just gets it's ORM time and date operations broken, because without proper timezone
 given it does not properly interpret the dates in the DB and ends up taking back nils instead of any date at all. This is an awfully bad and hardly trackable behaviour for the advanced data mapping system as Active Record.
