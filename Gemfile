@@ -1,8 +1,11 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll", "~> 3.0"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem 'jekyll-mentions'
-gem 'jekyll-feed'
-gem 'jekyll-theme-merlot'
+gem 'jekyll', '~> 3.0'
+
+group 'jekyll_plugins' do
+  gem 'jekyll-feed'
+  gem 'jekyll-gist'
+  gem 'jekyll-mentions'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-theme-merlot'
+end

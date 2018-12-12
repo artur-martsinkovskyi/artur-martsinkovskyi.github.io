@@ -58,12 +58,13 @@ steam:              arthur-marz
 #xmpp:              username@server.com
 #hackernews:        username
 
-# Gems
+# Plugins
 plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+
 
 jekyll-mentions:
     base_url: https://github.com
