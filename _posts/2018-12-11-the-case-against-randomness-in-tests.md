@@ -3,7 +3,7 @@ layout: post
 title:  "The case against randomness in tests"
 date:   2018-12-11
 excerpt: "Why randomness of input in tests is a hazard and what to do with it."
-tags: [Rails, Ruby, test, RSpec, Faker]
+tags: [programming, Rails, Ruby, test, RSpec, Faker]
 comments: true
 ---
 
