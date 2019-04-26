@@ -5,10 +5,11 @@ date:   2016-09-10
 excerpt: "A scary tale how one line of code can cause a plenty bugs and grind your gears as hell."
 tags: [Rails, Ruby, debug]
 comments: true
-feature: /assets/img/new-debugger-can-discover-security-bugs-in-ruby-code-in-64-seconds-503022-2.png
 ---
 
 ## Introduction
+
+![image](/assets/images/new-debugger-can-discover-security-bugs-in-ruby-code-in-64-seconds-503022-2.png)
 
 Lately I've been in the middle of development of an interesting project which
 soul and flash were mostly derived from Kickstarter and plenty of websites alike

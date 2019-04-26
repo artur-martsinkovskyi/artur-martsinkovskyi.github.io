@@ -1,11 +1,10 @@
-source 'https://rubygems.org'
-
-gem 'jekyll', '~> 3.0'
-
-group 'jekyll_plugins' do
-  gem 'jekyll-feed'
-  gem 'jekyll-gist'
-  gem 'jekyll-mentions'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-theme-merlot'
+source "https://rubygems.org"
+gemspec
+group :jekyll_plugins do
+    gem "jekyll-sitemap"
+    gem "bourbon"
+    gem "jekyll-paginate"
 end
+gem 'html-proofer'
+gem 'tzinfo'
+gem 'tzinfo-data'

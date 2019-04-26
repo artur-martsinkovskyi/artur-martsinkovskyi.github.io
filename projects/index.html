@@ -1,0 +1,24 @@
+---
+layout: default
+title: Projects
+---
+
+<section class="intro">
+  <div class="container">
+    <p class="lead">
+    Due to the NDAs signed, I am not able to disclose names and links to the projects, so this page will list only overviews of what was the essence of them. You're welcome to contact me directly if you'd like to know more about any of the projects
+    </p>
+  </div>
+</section>
+
+<section class="post-list">
+  <div class="container">
+    {% for project in site.projects %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ project.date | date: "%Y" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">{{ project.title }}</a></div>
+      </article>
+    {% endfor %}
+  </div>
+
+</section>

@@ -1,76 +1,50 @@
-# Site
-title:              Artur Martsinkovskyi
-bio:                'Software Engineer from glorious Ukraine'
-description:        "My blog and personal space. You're to see my thoughts here."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/avatar.jpg'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url: //artur-martsinkovskyi.github.io
+# Site settings
+title_left    : "AM"
+title_right   : "Blog" # default: ""
+description   : "Programmer's delight."
+keywords      : "blog, web, minimalist, thinkspace, programming, thoughts"
+url           : https://artur-martsinkovskyi.github.io/ # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+cover         : "" # image uri like logo/cover image for site seo
 
+twitter_username  : "@CrawleyAlister"
+comments_enabled  : false # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : ""
+postshare_enabled : false
 
-# Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source      : ./
+destination : ./_site
+
+# Sass configuration
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir  : assets/scss
+  style     : compressed # expanded
 
-disqus_shortname: artur-martsinkovskyi-github-io
+# Author settings
+author:
+  name     : "Artur Martsinkovskyi"
 
-# Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-email: deimoss42@gmail.com
-github:             artur-martsinkovskyi
-stackoverflow:      6176394/Артур-Фокс
-#linkedin:          username
-#xing:              username
-instagram:          arthur_said
-#lastfm:            username
-#tumblr:            username
-#pinterest:         username
-#foursquare:        username
-steam:              arthur-marz
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
-
-# Plugins
 plugins:
-  - jekyll-mentions
-  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-gist
+  - bourbon
+  - jekyll-paginate
 
+# navbar pages
+navbar:
+  - slug:  projects
+    title: Projects
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
 
-jekyll-mentions:
-    base_url: https://github.com
+collections:
+  projects:
+    output: true
 
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
-
-
-theme: jekyll-theme-merlot
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]

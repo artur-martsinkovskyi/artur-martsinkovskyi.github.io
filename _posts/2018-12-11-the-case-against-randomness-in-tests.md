@@ -7,7 +7,7 @@ tags: [programming, Rails, Ruby, test, RSpec, Faker]
 comments: true
 ---
 
-![Accuracy and repeatibility](/assets/img/predictability.jpg)
+![Accuracy and repeatibility](/assets/images/predictability.jpg)
 
 _Good tests kill flawed theories; we remain alive to guess again._
 \- Karl Popper
