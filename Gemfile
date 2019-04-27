@@ -6,5 +6,6 @@ group :jekyll_plugins do
     gem "jekyll-paginate"
 end
 gem 'html-proofer'
+gem 'jekyll-seo-tag'
 gem 'tzinfo'
 gem 'tzinfo-data'
