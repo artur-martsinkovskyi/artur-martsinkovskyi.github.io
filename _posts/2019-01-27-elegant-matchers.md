@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elegant matcher for multiple method call expectations
-date:   2019-03-27
+date:   2019-01-27
 excerpt: Matching multiple method calls may be a bit overwhelming. It would be great to have it covered elegantly.
 tags: [ruby, rspec]
 comments: true
