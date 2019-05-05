@@ -6,6 +6,8 @@ comments: true
 ---
 Here is a little ironic reflection on the 12 principles of Agile Manifesto. Scroll to the end of the page to read __serious__ content.
 
+![Mockery](/assets/images/mockery.jpg)
+
 # Making fun of methodology
 
 > Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
@@ -64,10 +66,19 @@ It is hard to reflect when your manager thinks effectivity depends on the number
 Modern computer industry has a steady flow of newcomers, growing each year, Though, part of them are professional, aspired by the domain, have appropriate education(by themselves or in the university) and would stay in the field even if wages were lower and hype was not there, there is a vast majority of individuals that are here to make money and do the job that pays out most. Those people have different intentions but both types are welcome to the workplace because demand does still outreach supply and from the first sight it is hard to separate one from another(not even going into the debate on moving from one state to the other because or burning out, finding pleasure in coding, e.t.c).
 
 Different intentions, focus and working quality of people directly influence the processes and treatment needed for their employer to reach his goals. Agile was created as a movement for better code, better quality and value brought to energize customers business. It implied that people who work in the field are self-manageable motivated professionals that know what they are doing. And some people are like that, so agile works for them. The others, on the other hand... They are not that independent yet or at all, so at some level methodology fails for them. In can be everywhere, on the business level, on the level of management or development. The fact is that some people are unable to work without process close to Ford factory where they are responsible only for their part of the process and are not required to do anything else.
+# Fast-food pipeline
+
+![McDonald's](/assets/images/mcdonalds.jpg)
 
 Let us draw a cooking analogy. One of the major process features of McDonald's (and almost any other fast food restaurant chain) is steadiness and relative simplicity of their recipes. They try to keep their instructions on how to prepare some meal in a form which can be perceived and reproduced by any sapient human with the expectable result. Such cuisine will never be tremendously delicious, but it will be edible and the customer will be able to have some sense of decent meal even though it won't be anything special. They produce semimanufactures, write recipes and shape processes in a way that will allow the pipeline to produce steady result no matter what cooking skills a person at the kitchen has.
 
+# Perfect cuisine
+
+![Michelin](/assets/images/michelin.jpg)
+
 On the other side of the specter, you have an elite-class Michelin star restaurant with a team of dedicated professional chefs that know perfectly well how to cook a proper meal from anything they are given except maybe from milk with cucumber. They know how to team up and work alone, they tried every piece of equipment in the kitchen and know when to use it, they learned to improvise and to be consistent with the recipe to the last word. Each one would have opened a restaurant of their own if they did not enjoy working together so much. They are given a free choice of products for their meals and can do everything they want with one little constraint - clients should always be happy with what they eat.
+
+# So what?
 
 Most of the companies out there are somewhere between those categories. The problem is - the same methodology does not fit all. You cannot give freedom to a person that wants to be constrained and have proper wording of what is required, do the steps and pass it to the next employee in the chain, the same way you cannot limit and put in the mechanic process a Michelin chef expecting him to work better in such an environment. In the industry sometimes you have highly constrained and detailed processes that use developer only as a code-generating bolt in the sequence as well as do-what-you-have processes that require tact, open mind, motivation and mindfulness from everyone in the chain for the job to be done. Strangely, both process configurations are called agile, even though the only thing they share in common is rituals around the delivery process but none of the values. Maybe we should come with new terminology on how the Manifesto was implemented in the wild?
 
