@@ -1,0 +1,3 @@
+- Echo chamber of technology
+- Asynchronous workflow: how to be the event loop yourself
+- Ad hoc mentality: Rails encourage sloppiness

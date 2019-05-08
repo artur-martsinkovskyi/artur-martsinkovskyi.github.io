@@ -1,0 +1,24 @@
+---
+layout: default
+title: Projects
+---
+
+<section class="intro">
+  <div class="container">
+    <p class="lead">
+      Those are the talks I've given over time.
+    </p>
+  </div>
+</section>
+
+<section class="post-list">
+  <div class="container">
+    {% for talk in site.talks %}
+      <article class="post-item">
+        <span class="post-meta date-label">{{ talk.date | date: "%Y" }}</span>
+        <div class="article-title"><a class="post-link" href="{{ talk.url | prepend: site.baseurl | prepend: site.url }}">{{ talk.title }}</a></div>
+      </article>
+    {% endfor %}
+  </div>
+
+</section>

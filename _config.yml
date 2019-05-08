@@ -46,6 +46,8 @@ navbar:
 collections:
   projects:
     output: true
+  talks:
+    output: true
 
 google_analytics: UA-139178809-1
 

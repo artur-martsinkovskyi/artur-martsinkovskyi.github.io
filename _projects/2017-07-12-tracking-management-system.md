@@ -2,8 +2,6 @@
 layout: project
 title:  "Tracking management system"
 date:   2017-07-12
-excerpt: "Logistics and transportation tracking software."
-comments: true
 ---
 
 Tracking management system with multiple sources of data and view
