@@ -1,8 +1,7 @@
 ---
 layout: post
 title: IMHO considered harmful
-date:   2019-05-06 
-comments: true
+date: 2019-05-06
 ---
 
 People like to share their opinions. They do it in the comments, articles, in their speech, even the text you are reading now is an opinion of this blogs owner. It is alright to have an opinion, to think about reality, map the teritory of surrounding world and stuff in it then sharing your map with others. Expressing your thoughts to others and getting their mind on some topic is a valuable element of societal development and aids us all.
@@ -15,7 +14,7 @@ Although, shielding yourself and your opinion from the possible criticism and se
 
 # Humility considered harmful
 
-IMHO serves as training wheels of idea, saying to the world - don't judge me, it is just an opinion and may be wrong. It discourages people from getting into discussion and taking the opinion seriously. Why even start expressing the thought if you are not certain that you can protect and/or adjust it if someone points at some warts of your theory? 
+IMHO serves as training wheels of idea, saying to the world - don't judge me, it is just an opinion and may be wrong. It discourages people from getting into discussion and taking the opinion seriously. Why even start expressing the thought if you are not certain that you can protect and/or adjust it if someone points at some warts of your theory?
 
 Being unsure of some things in your worldview is normal as far as you point at the explicitly and explain the uncertainty you have about them. Such explanation may be a foundation of fruitful conversation and aspire people to get their mind on an issue. IMHO is different, it is a kind of discussion-stopper that does not pose any questions to ask being only a stop sign. It does not explain anything, it simply shows that person is reassuring to avoid an attack on their ideas and building a safehouse of  (rather helpless) humility.
 

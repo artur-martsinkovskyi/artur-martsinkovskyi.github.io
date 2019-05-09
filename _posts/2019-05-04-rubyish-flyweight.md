@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Rubyish flyweight
-date:   2019-05-04
-tags: [ruby, rspec]
-comments: true
+date: 2019-05-04
 ---
 
 Ruby is a nice and elegant language, which is magically appealing in its expressiveness. Thanks to its agility, it allows natural and intuitive solutions where other languages require boilerplate and bloat to reach the same goal. Here is an example of it.

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Peafowl career or how act as if
-date:   2019-03-27
-tags: [ruby, rspec]
-comments: true
+date: 2019-03-27
 ---
 
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Mockery of agile
-date:   2019-04-27
-comments: true
+date: 2019-04-27
 ---
 Here is a little ironic reflection on the 12 principles of Agile Manifesto. Scroll to the end of the page to read __serious__ content.
 

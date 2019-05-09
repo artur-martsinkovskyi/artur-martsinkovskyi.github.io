@@ -1,17 +1,24 @@
 ---
 layout: post
-title:  "Logical fallacies in software engineering - Part I(probably)"
-date:   2018-12-11
-excerpt: "Ideas may fall short if they are fallacious and software engineering is full of ideas. Lets break some of the fallacies down to make ourselves better engineers."
-tags: [programming, rationality]
-comments: true
+title:  "Logical fallacies in software engineering"
+date: 2018-12-22
 ---
 
+Ideas may fall short if they are fallacious and software engineering is full of ideas. Lets break some of the fallacies down to make ourselves better engineers.
+
+![Brain](/assets/images/brain.gif)
+# A ghost in the flesh
+
+
 A human brain is a complex machine that evolved over millennia. It works in the most peculiar ways possible and allows us to excel both at perception, dexterity and mind work. Some of its functions are a bit hacky. There are a lot of stereotypes and shortcuts that our mind takes in order to be more efficient and take less energy to fulfill the task. It helps most of the time although, being overwhelmingly erroneous at times, so that it leans you to the wrong decision, building an incorrect map of reality. The lenses of your perception may be flawed, the mechanism that grinds up the information you collect may be malfunctioning, your mapping can be highly incorrect.
+
+# Warts of cellular computation
 
 Such errors have a name. This name is 'fallacy'. A fallacy is reasoning that is evaluated as logically incorrect and that undermines the logical validity of the argument and permits its recognition as unsound.
 
 Like other people of mind work, software engineers require a lot of thinking, analysis, and mapping of reality to fulfill their job. While doing these processes, our mind sometimes takes shorter routes to reach the destination, leading to wrong decisions or poor planning. To avoid that it is better to know your flaws.
+
+# How we fail
 
 Mind processes are complex and multicontextual, so are the fallacies one may fall for on the way of thinking. Although, there are some that I consider interesting for a software engineer. Here they are:
 
@@ -25,3 +32,6 @@ Mind processes are complex and multicontextual, so are the fallacies one may fal
 
 * Survivorship bias – a small number of successes of a given process are actively promoted while completely ignoring a large number of failures. This one is especially important for the people with business mindset that want to open a startup or enterprise. They tend to learn the success stories of prominent companies, which may be an exception, rather then a rule. Thousands of startups fail each year and only a few survive to succeed.
 
+# Conclusion
+
+We, engineers, tend to recheck and test artifacts of our work. Our systems have to work properly and bugs have to be eliminated at sight in order for us to be proud of our work. However, there is more to it. Our systems have defects and so do we. We need to seek for bugs in our minds, not only in our systems. If system that creates systems is not working properly, no wonder its product will be broken too. Remember: errors are not a sin, it is sin to ignore them.

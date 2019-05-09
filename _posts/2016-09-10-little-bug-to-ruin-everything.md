@@ -2,9 +2,6 @@
 layout: post
 title:  "A little bug to ruin everything"
 date:   2016-09-10
-excerpt: "A scary tale how one line of code can cause a plenty bugs and grind your gears as hell."
-tags: [Rails, Ruby, debug]
-comments: true
 ---
 
 ## Introduction
