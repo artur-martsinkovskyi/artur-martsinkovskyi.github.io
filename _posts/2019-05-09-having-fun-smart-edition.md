@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Having fun smart
+title: "Having fun: smart edition"
 date: 2019-05-09
 ---
 

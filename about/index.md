@@ -1,22 +1,14 @@
 ---
 layout: page
 title: Me.
-tags: [about, Artur Martsinkovskyi, engineer, bio]
-date: 2018-12-11
-comments: false
 ---
 
-<center><a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, engineer, public speaker, poet, blogger, weirdo.</center>
 
-I am a Software Engineer on Ruby and some other languages, Vim enthusiast and a big fan of FP, XP and TDD.
+<a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, engineer, public speaker, poet, blogger, weirdo.
 
-I am a Computer Science graduate student in the Precarpathian National University.
+![Artur](/assets/images/artur.jpg)
 
-Rationalist with a sprinkle of sci-fi aspirations.
-
-Interested in medical, financial, logistic and civil engineering domains.
-
-Proud Thinkpad user, use Mac Mini at work, get along with Windows as with neccessary evil time to time.
+I am a Software Engineer on Ruby and some other languages, Vim enthusiast and a big fan of FP, XP and TDD. I am a Computer Science graduate student in the Precarpathian National University. Rationalist with a sprinkle of sci-fi aspirations. Interested in medical, financial, logistic and civil engineering domains. Proud Thinkpad user, use Mac Mini at work, get along with Windows as with neccessary evil time to time.
 
 ### A bit of CV-like content
 
@@ -62,3 +54,4 @@ These are the technologies and stuff I am involved into.
 ### Contact me
 
 [deimoss42@gmail.com](mailto:deimoss42@gmail.com)
+[Linkedin](https://www.linkedin.com/in/artur-martsinkovskyi/)
