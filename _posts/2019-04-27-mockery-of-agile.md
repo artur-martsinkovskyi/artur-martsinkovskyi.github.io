@@ -81,3 +81,6 @@ On the other side of the specter, you have an elite-class Michelin star restaura
 
 Most of the companies out there are somewhere between those categories. The problem is - the same methodology does not fit all. You cannot give freedom to a person that wants to be constrained and have proper wording of what is required, do the steps and pass it to the next employee in the chain, the same way you cannot limit and put in the mechanic process a Michelin chef expecting him to work better in such an environment. In the industry sometimes you have highly constrained and detailed processes that use developer only as a code-generating bolt in the sequence as well as do-what-you-have processes that require tact, open mind, motivation and mindfulness from everyone in the chain for the job to be done. Strangely, both process configurations are called agile, even though the only thing they share in common is rituals around the delivery process but none of the values. Maybe we should come with new terminology on how the Manifesto was implemented in the wild?
 
+# Discussions
+
+[Reddit](https://www.reddit.com/r/programming/comments/bla7sm/why_agile_is_so_misunderstood_and_what_is_the/)
