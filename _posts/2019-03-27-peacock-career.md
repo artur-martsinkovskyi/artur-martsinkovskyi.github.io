@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peafowl career or how act as if
+title: Peafowl career or how to act as if
 date: 2019-03-27
 ---
 
