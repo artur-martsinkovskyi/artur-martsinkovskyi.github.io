@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Life"
-title_right   : "on Marts" # default: ""
+title_right   : " on Marts" # default: ""
 description   : "Programmer's delight."
 keywords      : "blog, web, minimalist, thinkspace, programming, thoughts"
 url           : https://artur-martsinkovskyi.github.io/ # site url
