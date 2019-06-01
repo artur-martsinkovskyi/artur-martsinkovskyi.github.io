@@ -89,7 +89,19 @@ hr {
   }
 }
 
+.logo-img {
+  display: block;
+  margin: auto;
+  cursor: pointer;
+}
+
+.lead {
+  text-align: center;
+}
+
 .logo {
+  width: 100%;
+  text-align: center;
   float: left;
   margin: 0 0 1em 0;
   cursor: pointer;
@@ -108,10 +120,13 @@ hr {
 }
 
 .navbar {
+  width: 100%;
+  text-align: center;
   float: right;
   margin: 0;
   position: relative;
   padding: 0;
+  padding-bottom: 10pt;
   pointer-events: all;
   cursor: pointer;
 

@@ -6,6 +6,7 @@ keywords      : "blog, web, minimalist, ruby, programming, thoughts"
 url           : https://artur-martsinkovskyi.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/life-on-marts.jpg" # image uri like logo/cover image for site seo
+logo          : "/assets/images/life-on-marts.jpg"
 
 twitter_username  : "@CrawleyAlister"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
