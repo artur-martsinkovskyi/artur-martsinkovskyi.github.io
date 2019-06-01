@@ -33,6 +33,7 @@ plugins:
   - jekyll-sitemap
   - bourbon
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # navbar pages
 navbar:
