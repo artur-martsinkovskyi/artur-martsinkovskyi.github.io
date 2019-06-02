@@ -1,8 +1,12 @@
 
 <nav class="nav">
   <div class="container">
-    <a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"><img src="/assets/images/mars.png" class="logo-img"></a>
+    <a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"><img src="/assets/images/mars.png" class="logo-img" alt="Marts"></a>
+    {% if page.title == 'Home' %}
     <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>
+    {% else %}
+    <p class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></p>
+    {% endif %}
     <ul class="navbar">
       <li><a href="{{ '/projects' | prepend: site.baseurl | prepend: site.url }}">Projects</a></li>
       <li><a href="{{ '/talks' | prepend: site.baseurl | prepend: site.url }}">Talks</a></li>

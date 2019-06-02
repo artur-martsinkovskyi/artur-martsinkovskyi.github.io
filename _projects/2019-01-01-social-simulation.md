@@ -2,7 +2,7 @@
 layout: project
 title:  "Socia - Social simulation application"
 date:   2019-01-01
-comments: true
+description: Social simulation project with desktop representation via 2d game gem Gosu and plain Ruby.
 ---
 
 # Summary

@@ -2,6 +2,7 @@
 layout: post
 title: Rubyish flyweight
 date: 2019-05-04
+description: Ruby is known to be a elegant, so it is no wonder that some patterns look even more natural than in other langugages. Meet flyweight with a single class.
 ---
 
 Ruby is a nice and elegant language, which is magically appealing in its expressiveness. Thanks to its agility, it allows natural and intuitive solutions where other languages require boilerplate and bloat to reach the same goal. Here is an example of it.

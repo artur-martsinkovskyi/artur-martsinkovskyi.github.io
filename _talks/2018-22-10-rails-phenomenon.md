@@ -1,6 +1,7 @@
 ---
 layout: talk
 title: "Rails phenomenon: startups at the speed of light"
+description: Rails have skyrocketed in popularity and brought us to the new world of startups and venture capitalism. Why did they manage to do it?
 date:   2018-10-22
 youtubeId: V46H3G1n7y4
 ---

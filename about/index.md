@@ -1,55 +1,16 @@
 ---
 layout: page
-title: Me.
+title: About me being me.
+description: Short story of my life, work and interests. I suppose every serious blog must have one.
 ---
 
 
 <a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, engineer, public speaker, poet, blogger, weirdo.
 
-I am a Software Engineer on Ruby and some other languages, Vim enthusiast and a big fan of FP, XP and TDD. I am a Computer Science graduate student in the Precarpathian National University. Rationalist with a sprinkle of sci-fi aspirations. Interested in medical, financial, logistic and civil engineering domains. Proud Thinkpad user, use Mac Mini at work, get along with Windows as with neccessary evil time to time.
+I am a Software Engineer on Ruby and some other languages, Vim enthusiast and a big fan of FP, XP and TDD(and a couple of other abbreviations also, like TNSTAAFL). I am a Computer Science graduate student in the Precarpathian National University. Rationalist with a sprinkle of sci-fi aspirations. Interested in medical, financial, logistic and civil engineering domains. Proud Thinkpad user, use Mac Mini at work, get along with Windows as with neccessary evil time to time. Also I am keen on space, rockets and imagery of the gold era of hard sci-fi, Bradbury and Heinlein and their kind. The name of this blog is taken from Bowie song "Life on Mars?" with a slight change to my actual surname in short.
 
-### A bit of CV-like content
+DISCLAIMER: Some of the posts in this blog look like quite the furious rants(and they are). Although, I write on a painful topics only in the time of the biggest emotional embarassement about them, so actual me out in the wild may have a bit midler opinions when you ask me in person. I always thought that it is better to go full radical on some topics for people around to stop halfway and still have my post influence their actions enough.
 
-These are the technologies and stuff I am involved into.
+You may conact me(why in the world?) at [deimoss42@gmail.com](mailto:deimoss42@gmail.com).
 
-#### Programming languages I'm skilled in:
-    - Javascript(intermediate)
-    - Ruby(advanced, mostly Rails, Roda and Hanami)
-    - Python(intermediate)
-    - C(basic)
-    - SML(basic)
-    - Prolog(basic)
-    - LISP(intermediate, Clojure, Common Lisp, Racket, Chicken Scheme)
-    - Haskell(basic)
-
-#### Technologies I use:
-    - Linux
-    - SQL/NoSQL
-    - tmux/i3/iTerm2/Konsole/Xmonad
-    - Emacs/Vim
-    - Docker/Vagrant
-
-#### Scientific interests:
-    - Semantic analysis
-    - Procedural Content Generation
-    - Data mining
-    - Big data
-    - History of Computer Science and computation
-    - Type systems
-
-### Hobbies
-    - Science fiction literature
-    - Comic books
-    - Art
-    - Poetry
-    - Lurking down the deepest corners of web
-    - Travelling
-    - British parliamentary style debates
-    - Cooking
-    - Warhammer 40k LARP and text RP
-    - Debates
-
-### Contact me
-
-[deimoss42@gmail.com](mailto:deimoss42@gmail.com)
-[Linkedin](https://www.linkedin.com/in/artur-martsinkovskyi/)
+Also, here is my [Linkedin](https://www.linkedin.com/in/artur-martsinkovskyi/).

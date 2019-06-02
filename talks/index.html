@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Projects
+title: Talks
+description: "Talks I've given. Most of them are in ukrainan, but some have nice English slides."
 ---
 
 <section class="intro">
@@ -13,6 +14,7 @@ title: Projects
 
 <section class="post-list">
   <div class="container">
+    <h1>{{ page.title }}</h1>
     {% for talk in site.talks %}
       <article class="post-item">
         <span class="post-meta date-label">{{ talk.date | date: "%Y" }}</span>

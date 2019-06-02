@@ -2,8 +2,7 @@
 layout: post
 title:  "Investment and factoring platform"
 date:   2018-06-12
-excerpt: "Fintech application for SMEs to get financing on the invoices and/or investments."
-comments: true
+description: "Fintech application for SMEs to get financing on the invoices and/or investments."
 ---
 
 Investment and factoring platform with B2B orientation and focus on security and risk

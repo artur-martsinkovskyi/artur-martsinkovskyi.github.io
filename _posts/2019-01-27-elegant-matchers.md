@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Elegant matcher for multiple method call expectations
+title: Elegant matcher for multiple call expectations
 date:   2019-01-27
+description: Matching multiple method calls may be a bit overwhelming. It would be great to have it covered elegantly.
 ---
 
 ![Boilerplate and his team](/assets/images/boilerplate.jpg)
+
 Recently, I was digging through some test code and found an annoying recurring pattern that is somehow clumsy and unsatisfying. I talk about such a case:
 ```ruby
   expect(user.uid).to eq('hpqeqa12asdq1')

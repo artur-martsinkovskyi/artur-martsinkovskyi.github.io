@@ -2,6 +2,7 @@
 layout: post
 title:  "A little bug to ruin everything"
 date:   2016-09-10
+description: A scary tale how one line of code can cause a plenty bugs and grind your gears as hell.
 ---
 
 ## Introduction
