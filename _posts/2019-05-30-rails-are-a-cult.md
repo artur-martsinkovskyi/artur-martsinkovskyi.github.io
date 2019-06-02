@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rails are a cult
+description: Rails have always been somehow about culture. But does this culture really works nowadays? Do the things Rails worship still worth it?
 date: 2019-05-30
 ---
 
@@ -9,7 +10,7 @@ It is going to be a rant. But a nice one. A piece of consideration from a desper
 
 ![Cult](/assets/images/cult.jpg)
 
-# Love bombing
+## Love bombing
 
 My first commercial experience that counts happened to be with Rails. I've started working with the framework when I entered a bootcamp of one of the small companies in my hometown. I was a late sophomore, smart but not really diligent. I knew some C++ programming, a bit of Python and Java, but every attempt to get started with actual application development of something harder than simple hello world blog was failing due to various reasons. Sometimes my motivation was simply gone after a few days of fighting with compilation errors and wrong test outputs, at other times I was starting a project just to throw it away after a few days not looking in the code. I could not build my skillset to be good enough for me to have a desire to last longer and stay interested in things. Fortunately, Rails turned out a completely different piece of cake.
 
@@ -17,15 +18,15 @@ After a few fixed red 500 screens and fighting with database setup my initial bl
 
 The community seemed to be fancy and I've got answers to my questions on StackOverflow and forums, most of them were asked before me. Nice people were doing nice things and I felt warm and welcome amongst them. Also, there were personalities. DHH, the creator of the framework, active on Twitter and his blog, always having an advice for you and steering the ship of Rails in the right direction, Yehuda Katz, co-creator of Ember.js and writer of numerous books about Rails and their surroundings, Avdi Grimm and Gary Bernhardt, whose screencasts I highly appreciated.
 
-# Appointment with disappointment
+## Appointment with disappointment
 
-After a while, first impression started to fade away. About six months in, I understood that I didn't know Ruby well enough(I had no problems with Rails themselves, but the feeling that I could do more started to kick in). I learned more of Ruby and general OOP and started to realize some strange things. First of all, it turned out that a lot of things I used in Rails like `#transform_keys!`, `in?`, `delegate` were not a part of the Ruby core library. They were a part of ActiveSupport. They weren't wholesome either, turning out to be a bunch of hacky monkey-patches that sometimes were in conflict with some of the gems I tried to use.
+After a while, first impression started to fade away. About six months in, I understood that I didn't know Ruby well enough(I had no problems with Rails themselves, but the feeling that I could do more started to kick in). I learned more of Ruby and general OOP and started to realize some strange things. First of all, it turned out that a lot of things I used in Rails like `##transform_keys!`, `in?`, `delegate` were not a part of the Ruby core library. They were a part of ActiveSupport. They weren't wholesome either, turning out to be a bunch of hacky monkey-patches that sometimes were in conflict with some of the gems I tried to use.
 
 Secondly, Ruby turned out to have a `require` method and everything did not really need to hang around in the global namespace as it was(and is) in Rails. I understood that it was purposefully made to serve as a convenience, but a bad taste of a big memory footprint and loading issues was here in my mouth. After that, my controllers got bloated with business logic. I googled the problem and found motto `thin controllers - fat models`, so I followed it. But then models also started to bloat. I started to use concerns but they were not helping much either, putting out the logic that should have been in the class itself in the separate file, not really solving the problem correctly from OOP perspective. Rails did not have any abstraction of their own, so I started to make them myself with POROs and patterns from the books I've read. Rails were hiding a lot of complexities you might have needed to comprehend and change deep down underneath the user level of abstraction, making developers employ hacky and wrong solutions to get the work done when it was not in line with easy vision it had on how those features should have been done by convention. It seemed like configuration was not there when you were out of the conventional path. Gems also cluttered global namespace like ActiveSupport did, so sometimes they accidentaly broke trying to redefine the same method. It was not looking like a strive for cleaness, rather a strive to get the work done no matter dirty or not. Standard way of handling actions on update/create - callbacks, also turned into complete mess when app got more full-fleged and filled with business logic.
 
 Frustration started to raise and my feeling was like I was doing something that was not intended to be done with that framework at all. On the other hand, problems with ORM kicked in, every query harder than a trivial join with counting and some conditions in where was out of reach for the standard means of ActiveRecord, so I had to write SQL by hand or stick to Arel with quite a weird syntax. Rails also did not(and do not yet) support any means of view abstractions. Global helpers, erb, and partials - this is everything you have to deal with out of the box. No wonder I've started looking for the better ways of handling the problems of rising complexity I had. When I got on the Internet, I've seen Sinatra, Hanami, ROM-rb, Roda and some other good libraries, but they were not that popular. There were voices of dissent, Elixir with Phoenix, Clojure, and Crystal, but they  were trying to get Ruby attitude and culture out of Ruby ecosystem, while the original ecosystem was vastly occupied by Rails. Most of Ruby developers were Rails developers and did not seem to have any problem with the framework being essentially the body of work and economic existence of the language. They liked what DHH said and followed the practices even though it hurted them sometimes. 'Convention over configuration, TDD is dead, Rails is your application, you're using Rails wrong if you have troubles with it, just use another gem' they said. Then I realized that I've engaged in a cult.
 
-# Cult of easy
+## Cult of easy
 
 Let's get down to the basics. What defines a cult? As Robert Jay Lifton [says](https://culteducation.com/brainwashing1.html) there are three main characteristics of a cult.
 
@@ -47,11 +48,11 @@ Exploitation. Rails drain brains from the community like a vacuum cleaner. Why d
 
 Rails are a cult even though they do not employ sleep deprivation and do not claim soon apocalypse. Rails embrace and worship hurtful practices that do not work properly in the current world. Rails are easy to start with but following its best practices word by word is a good road to callback hell and complexity bursting out of control. Rails make developers worse by normalizing monkey-patching, denial of SOLID, GRASP, LoD and other good OOP practices for the mere immediate convenience. Rails kickstarted initial Ruby popularity, but they do a bad job at being a good citizen in Ruby country now.
 
-# Ruby without Rails?
+## Ruby without Rails?
 
 I would like to have a solution in this section, but I don't. Ruby popularity seems to be stagnating for the last few years and Rails move in the same old way only adopting the inevitable needed features or the ones that Rails Core Team and Basecamp need. There are voices of dissent and new frameworks but they do not skyrocket in popularity, leaving Rails a monopolist almost like it was in 2010. Some rubyists leave, some stay and face the problems that cannot be fixed with existing attitude, churn and framework structure. Will there be a solution? Will we get a better ecosystem and more choice? Will the cultists break their chains? I hope so. But only the future will tell.
 
-# Sources of aspiration
+## Sources of aspiration
 
 [Simple Made Easy by Rich Hickey](https://www.youtube.com/watch?v=34_L7t7fD_U)
 

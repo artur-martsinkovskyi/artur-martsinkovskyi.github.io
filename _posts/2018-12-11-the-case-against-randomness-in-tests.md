@@ -2,6 +2,7 @@
 layout: post
 title:  "The case against randomness in tests"
 date:   2018-12-11
+description: Random tests are great while they pass, but they cannot totally ensure your testing suite being run certainly with the same result every time because of their nature. Solving it may be a great deal.
 ---
 
 ![Accuracy and repeatibility](/assets/images/predictability.jpg)

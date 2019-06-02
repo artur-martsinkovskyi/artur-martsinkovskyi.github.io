@@ -2,7 +2,7 @@
 layout: project
 title:  "Social network"
 date:   2016-06-12
-excerpt: "Social network with advanced media facilities."
+description: "Social network with advanced media facilities."
 comments: true
 ---
 

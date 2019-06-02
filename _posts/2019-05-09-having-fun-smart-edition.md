@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Having fun: smart edition"
+description: Entertainment is an integral part of live, how to make it better?
 date: 2019-05-09
 ---
 
@@ -10,7 +11,7 @@ Our life consists of many parts - we sleep for about 8 hours a day, we work for 
 
 ![Philip Dick](/assets/images/pdick.jpg)
 
-# Entertainment enterprise explained by escapists
+## Entertainment enterprise explained by escapists
 
 It is a lovely nice thing we do to escape the dystopian reality we live in that comes closer to the cyberpunk dreams of Philip K. Dick or goddamn Gibson each time Apple/Samsung/Google launches something and ships to a third-world(I mean developing, of course, don't blame me, I live in one) country. Low live, high tech, you know. Where was I? Oh yeah, entertainment. Mostly, nowadays, this activity involves some kind of screen. It may be a screen of your phone, your 4K TV set, E-Book, laptop, public cinema theatre, you name it. Some of us do sports, drugs or other activities, but in the digital era, digital fun is the most popular one.
 
@@ -18,7 +19,7 @@ You work, you study to get better for work, you optimize your time and get bette
 
 ![Junk food](/assets/images/junk_food.jpg)
 
-# Junk life is no life
+## Junk life is no life
 
 Let's bring in the analogy. There is healthy food and junk food - first is delicious mostly if you are used to it and get a whip of the diet, the second is created to be tasty enough for you to want to eat it **despite** its malicious effect in the long-term. Your stomach intestines are a machine to process food and extract energy from it, your brain also is a processing engine. It processes information. Not all information is equally good. It may feel good but is actually junk. Most of the modern entertainment industry serves the purpose of getting your money one way or another. Those people want you to feel like you are getting something valuable(feelings, information, a lesson for life), but actually, you are not. If you get proper food and stick to a diet, your digestive system will function properly and you will be feeling good. Same goes for your brain. In order to create something valuable, it needs to deconstruct something valuable.
 
@@ -30,7 +31,7 @@ I am a software engineer and I try to be a good one. In order to do this it is i
 
 ![Death](/assets/images/death.jpg)
 
-# All lives are final
+## All lives are final
 
  So, you have a resource - time and a way to use that resource - entertainment. Time is limited, your desire for entertainment is endless. It is better to plan what you will digest into your information tube the next time. Look through the watchlists, read lists, playlists of other people in order to get some aspiration. Last.fm may suit for music, Goodreads is great if you want to get some suggestions on less well-known great literature to read, for movies you can just traverse shortlists of famous awards and personal blogs of people that are not critics but love movies - some of them may suggest you pretty good directors and movies to get your spot on. You should be able to build up a journey for your free time that will make you better, enable you to know more, be more motivated, have more ideas, feel more. Set the flow, don't stay in the flow that is dictated to you.
 
@@ -40,7 +41,7 @@ Sometimes professional development also needs some motivation. There are popular
 
 ![No refunds or exchanges](/assets/images/no_refunds.jpg)
 
-# No refund or return policy is provided
+## No refund or return policy is provided
 
 Also, try to get yourself out of the digital world sometimes. Transhumanism is soon to come and we will all be in the Matrix without an ability to walk under the sun having fun in the virtual reality, so you gotta enjoy the real world while you can be in one. On a serious note, our minds and bodies need a variety of activities in order to function properly. Having all your fun before the screen and your head is not the ultimate way. Cycling, other sports, low-level electronics with wires and magnifiers, carving and steelworks, there are ways to feel the same joy in the real world as you do virtually. This way you will be able to enjoy both real and virtual world pleasures not feeling too full on some side.
 

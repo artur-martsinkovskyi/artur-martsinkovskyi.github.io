@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+description: Projects I worked on or plan to work on. Some are interesting, some are not, some are kept in secret.
 ---
 
 <section class="intro">
@@ -13,6 +14,7 @@ title: Projects
 
 <section class="post-list">
   <div class="container">
+    <h1>{{ page.title }}</h1>
     {% for project in site.projects %}
       <article class="post-item">
         <span class="post-meta date-label">{{ project.date | date: "%Y" }}</span>

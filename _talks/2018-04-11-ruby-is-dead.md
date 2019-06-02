@@ -2,6 +2,7 @@
 layout: talk
 title: Ruby is dead
 date: 2018-04-07
+description: On the brink of the third decade of a new millenia Ruby is dead. Or not?
 ---
 
 One of the most clickbaity talks I've ever had.

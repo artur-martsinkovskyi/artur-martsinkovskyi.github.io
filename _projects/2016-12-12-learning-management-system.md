@@ -2,8 +2,7 @@
 layout: project
 title:  "Learning management system"
 date:   2016-12-12
-excerpt: "Learning management system for language school."
-comments: true
+description: "Learning management system for language school."
 ---
 
 Learning management system Learning management system with live chatrooms and subscription

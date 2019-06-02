@@ -1,6 +1,7 @@
 ---
 layout: talk
 title: Path of the programmer
+description: A quick guide on how to get started as fellow programmer being a student and not get to the madhouse too soon.
 date: 2019-04-06
 ---
 

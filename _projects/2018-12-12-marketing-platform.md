@@ -2,8 +2,7 @@
 layout: project
 title:  "Marketing platform"
 date:   2018-12-12
-excerpt: "Marketing platform for retail and promotion of products."
-comments: true
+description: "Marketing platform for retail and promotion of products."
 ---
 
 Marketing platform with functionality to sell and promote both digital and physical products.

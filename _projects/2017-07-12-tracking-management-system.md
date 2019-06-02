@@ -2,6 +2,7 @@
 layout: project
 title:  "Tracking management system"
 date:   2017-07-12
+description: Tracking management system with multiple sources of data and view representation.
 ---
 
 Tracking management system with multiple sources of data and view
