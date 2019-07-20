@@ -11,7 +11,6 @@ I am a Software Engineer on Ruby and some other languages, Vim enthusiast and a 
 
 DISCLAIMER: Some of the posts in this blog look like quite the furious rants(and they are). Although, I write on a painful topics only in the time of the biggest emotional embarassement about them, so actual me out in the wild may have a bit midler opinions when you ask me in person. I always thought that it is better to go full radical on some topics for people around to stop halfway and still have my post influence their actions enough.
 
-
-You may conact me(why in the world?) at [deimoss42@gmail.com](mailto:deimoss42@gmail.com).
+You may conact me(why in the world?) at [artur.martsinkovskyi@gmail.com](mailto:artur.martsinkovskyi@gmail.com).
 
 Also, here is my [Linkedin](https://www.linkedin.com/in/artur-martsinkovskyi/).
