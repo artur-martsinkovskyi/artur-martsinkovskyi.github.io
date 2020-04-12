@@ -13,7 +13,7 @@ Recently I was hacking through a game design patterns handbook and encountered a
 
 As Wikipedia says: "In computer programming, flyweight is a software design pattern. A flyweight is an object that minimizes memory usage by sharing as much data as possible with other similar objects; it is a way to use objects in large numbers when a simple repeated representation would use an unacceptable amount of memory. Often some parts of the object state can be shared, and it is common practice to hold them in external data structures and pass them to the objects temporarily when they are used."
 
-Commonly in most languages this pattern is [implemented](https://sourcemaking.com/design_patterns/flyweight/python/1) using a factory, an abstract class and inheritance of that class. In Ruby, it may be implemented less noisy. Due to the fact that Object.new is not a special language construct, but just a method we are able to have our own class constructor serve as a factory, just overriding it. Below you can see how it works.
+Commonly in most languages, this pattern is [implemented](https://sourcemaking.com/design_patterns/flyweight/python/1) using a factory, an abstract class, and inheritance of that class. In Ruby, it may be implemented less noisy. Due to the fact that Object.new is not a special language construct, but just a method we are able to have our own class constructor serve as a factory, just overriding it. Below you can see how it works.
 
 
 
@@ -54,15 +54,15 @@ class Point
 end
 ```
 
-Flyweightable module overrides new method and creates a memoized storage inside of the class that will hold a registry of all flyweights instantiated. If a flyweight with parameters passed in the constructor exists it just returns it, else it creates a flyweight and writes it into the registry.
+Flyweightable module overrides a new method and creates a memoized storage inside of the class that will hold a registry of all flyweights instantiated. If a flyweight with parameters passed in the constructor exists it just returns it, else it creates a flyweight and writes it into the registry.
 
-Such Flyweight implementation has all the benefits of original pattern, leaving instatiation untouched, making external interface as fluent as it was before makin class a Flyweight. It is important to remeber that this pattern should be used for classes that you deem values like points, textures or other enumeratable objects that can be uniquely identified, not references at objects with changeable state.
+Such Flyweight implementation has all the benefits of the original pattern, leaving instantiation untouched, making the external interface as fluent as it was before making class a Flyweight. It is important to remember that this pattern should be used for classes that you deem values like points, textures or other enumerable objects that can be uniquely identified, not references at objects with the changeable state.
 
 
 Caveats:
 - Classes that mix in that module must be read-only as a requirement for Flyweight (else it becomes clumsy and out of sync when objects get their state updated elsewhere)
-- Registry is implemented using hash will most likely be live through the whole runtime of you program, so in case of a gazillion of unique objects Flyweight might not be suitable
+- The registry is implemented using hash will most likely be live through the whole runtime of your program, so in case of a gazillion of unique objects Flyweight might not be suitable
 
-The same technique(constructor override) may be used in a variety of ways, like dynamic building dispatch or multiple dedicated constructor with different names to break one constructor per class restriction.
+The same technique(constructor override) may be used in a variety of ways, like dynamic building dispatch or multiple dedicated constructors with different names to break one constructor per class restriction.
 
 Happy hacking!
