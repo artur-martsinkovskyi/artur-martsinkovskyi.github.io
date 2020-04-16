@@ -4,11 +4,6 @@ title: About me being me.
 description: Short story of my life, work and interests. I suppose every serious blog must have one.
 ---
 
-
-<a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, engineer, public speaker, poet, blogger, weirdo.
-
-<img src="/assets/images/me.jpg">
-
 <a href="https://github.com/artur-martsinkovskyi"><b>Artur Martsinkovskyi</b></a>, engineer, public speaker, poet, blogger, weirdo.
 
 <img src="/assets/images/me.jpg">
